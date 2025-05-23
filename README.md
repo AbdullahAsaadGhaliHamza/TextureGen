@@ -4,6 +4,8 @@
 
 **TextureGen** is a powerful tool that generates a complete set of **PBR (Physically Based Rendering)** texture maps from a single diffuse texture. This guide will walk you through installation, features, and usage to help you create high-quality PBR materials quickly and efficiently.
 
+![TextureGenLogo](https://github.com/user-attachments/assets/a5be5614-8230-41b3-a4b2-3ea7566854c8)
+
 ---
 
 ## Installation
